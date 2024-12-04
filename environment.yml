@@ -1,0 +1,10 @@
+name: diffusion
+dependencies:
+  - pytorch
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - iris
+  - xarray
+  - pip
